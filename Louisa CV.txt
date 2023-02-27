@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <title>CV Louisa Leokadja</title>
+</head>
+
+<body style="background-color : rgb(145, 182, 204)" </body>
+    <h1 style="text-align:center;">CURRICULUM VITAE (CV)</h1>
+    <img src="C:\Users\VICTUS\Downloads/Louisa.jpeg" width="150" align="right">
+    </img>
+    <h3><u>PROFIL</u></h3>
+
+    <table>
+        <tr>
+            <td width="1%">Nama</td>
+            <td width="10%">: Louisa Leokadja</td>
+        </tr>
+        <tr>
+            <td width="3%">Tempat, tanggal lahir</td>
+            <td width="10%">: Kupang, 18 Juli 2002</td>
+        </tr>
+        <tr>
+            <td width="1%">Jenis kelamin</td>
+            <td width="10%">: Perempuan</td>
+        </tr>
+        <tr>
+            <td width="1%">Agama</td>
+            <td width="10%">: Kristen Protestan</td>
+        </tr>
+        <tr>
+            <td width="1%">Alamat</td>
+            <td width="10%">: Tajem-Ngemplak, Sleman, Yogyakarta</td>
+        </tr>
+
+    </table>
+
+    <hr color="black">
+
+    <h3><u>PENDIDIKAN</u></h3>
+    <table>
+        <tr>
+            <td width="2%">Universitas</td>
+            <td width="10%">: Sanata Dharma Yogyakarta</td>
+        </tr>
+        <tr>
+            <td width="1%">Jurusan</td>
+            <td width="10%">: Informatika</td>
+        </tr>
+        <tr>
+            <td width="1%">IPK</td>
+            <td width="10%">: 3.00</td>
+        </tr>
+
+</html>
